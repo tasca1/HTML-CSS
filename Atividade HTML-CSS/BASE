@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Exemplo com div</title>
+        <style>
+            .titulo{
+                color: blueviolet;
+                font-style:italic;
+                text-align:center;
+            }
+        
+        </style>
+    </head>
+
+    <body>
+        
+        
+
+    </body>
+
+</html>
