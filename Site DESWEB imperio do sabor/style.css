@@ -1,27 +1,22 @@
 .slogan {
     font-family: 'Montserrat', sans-serif;
-    font-size: 80px;
+    font-size: 65px;
     color: #FFFFFF;
     font-weight: 700; 
-    margin-left: 300px;
-    margin-top: 70px;
 }
 
 .subtitle{
     
-    font-size: 20px;
+    font-size: 15px;
     color: #FFFFFF; 
-    margin-left: 310px;
-    margin-top: 10px;
+    
 }
 
 .marcadores{
     
-    font-size: 15px;
+    font-size: 13px;
     color: #FFFFFF;
     font-weight: 700; 
-    margin-left: 18px;
-    margin-top: 30px;
     padding: 0; 
     text-align: left; 
     
@@ -29,7 +24,6 @@
 }
 
 .container {
-    margin-left: 270px;
     align-items: center; 
     display: flex; 
     
